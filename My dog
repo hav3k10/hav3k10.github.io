@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giovanni Fuentes</title>
+</head><h1>Do you like my dog</h1>
+<body> <P>He is kinda werid ngl</P>
+<p>someimes im not sure if hes acually a dog, idk tho</p>
+<section>
+    <h2>things my cow likes... i mean seahorse:</h2>
+    <ul>
+      <li>violence (hes a menace)</li>
+      <li>laser pointers (dont point it at certain body parts)</li>
+      <li>he likes killing stuffed animals and bones</li>
+      <li>he also likes toes kinda weird no cyap</li>
+    </ul>
+</section>
+    <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A dog laying on its stomach">
+</body>
+</html>
